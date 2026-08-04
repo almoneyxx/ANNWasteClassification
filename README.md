@@ -10,10 +10,9 @@ Made in Google Colab, written in Python using TensorFlow/Keras model
 ## Preparing Dataset
 1. Collect and Collate images of different categories of waste (the more the better)
 2. Organise the images using the following folder structure:
-  Dataset/
-   ├── Compost/
-   ├── Recycle/
-   └── General/
+
+Dataset --
+General/Recycling/Compost
   
 3. Compress the dataset folder into a ZIP file.
 
