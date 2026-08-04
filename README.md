@@ -1,5 +1,4 @@
 # ANNWasteClassification
-Waste Classification System Using Artificial Neural Network
 
 An image classification system that uses an Artificial Neural Network (ANN) to classify waste into three categories:
 - Compost
